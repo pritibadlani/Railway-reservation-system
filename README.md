@@ -1,4 +1,4 @@
-# Railway-reservation-system
+# Railway-reservation-system using tkinter and sqlite3
 #Author:Priti
 
 ## Aim : 
